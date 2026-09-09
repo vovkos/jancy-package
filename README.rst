@@ -20,7 +20,9 @@ This repository holds the latest snapshot of pre-compiled packages built on ``ma
 Tarred and gzipped packages reside in branches:
 
 * linux-amd64
+* linux-arm64
 * linux-x86
 * osx-amd64
+* osx-arm64
 
 This is **not a release archive**! The main purpose of this repository is to provide easy access to the latest Jancy binaries.
